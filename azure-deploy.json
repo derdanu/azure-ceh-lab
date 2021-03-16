@@ -14,7 +14,7 @@
     "VNETSubnet1Name": "",
     "VNETSubnet1Prefix": "192.168.0.0/24",
     "Name": "azure-ceh-lab",
-    "AdminUserName": "admin",
+    "AdminUserName": "ceh",
     "AdminPassword": "Password123!!#",
     "ImagePublisher": "MicrosoftWindowsServer",
     "ImageOffer": "WindowsServer",
