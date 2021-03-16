@@ -9,5 +9,6 @@
 
 ```
 git clone https://github.com/derdanu/azure-ceh-lab.git
+cd azure-ceh-lab
 vagrant up 
 ```
