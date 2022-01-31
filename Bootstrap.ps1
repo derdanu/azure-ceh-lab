@@ -8,7 +8,8 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://cho
 #Assign Packages to Install
 $Packages = 'virtualbox',`
             'vagrant',
-	    'git'
+	    'git',
+	    'microsoftazurestorageexplorer'
 
 #Install Packages
 ForEach ($PackageName in $Packages)
